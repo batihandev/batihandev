@@ -3,7 +3,7 @@
 Backend engineer in Turkey, working mostly in TypeScript and Node.js. I build APIs for multi-tenant products, payments and games. In my free time I make small Unity games and record a weekly devlog about it.
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,mongodb,redis,rabbitmq,prisma,docker,aws,cloudflare,react,nextjs,vue,unity" alt="TypeScript, Node.js, NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ, Prisma, Docker, AWS, Cloudflare, React, Next.js, Vue, Unity" />
+  <a href="https://batihanozdemir.com/#skills"><img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,mongodb,redis,rabbitmq,prisma,docker,aws,cloudflare,react,nextjs,vue,unity" alt="TypeScript, Node.js, NestJS, PostgreSQL, MongoDB, Redis, RabbitMQ, Prisma, Docker, AWS, Cloudflare, React, Next.js, Vue, Unity" /></a>
 </p>
 
 ### What I work on
