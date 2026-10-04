@@ -15,7 +15,7 @@ Backend engineer in Turkey, working mostly in TypeScript and Node.js. I build AP
 
 ### Games
 
-- **INEVITABLE**: my current Unity mobile game, launching free on Google Play soon.
+- **INEVITABLE**: my newest Unity mobile game, free on [Google Play](https://play.google.com/store/apps/details?id=com.BatihanDev.Inevitable).
 - **[WhichWay](https://github.com/batihandev/WhichWay)**: a hyper-casual game on [Google Play](https://play.google.com/store/apps/details?id=com.VexeDev.WhichWay).
 
 ### Links
